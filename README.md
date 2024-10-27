@@ -87,6 +87,7 @@ Fungsi `CheckDead()` di `DinoRun` memeriksa apakah dino bertabrakan dengan objek
 ## 🎞 Video Tutorial
 
 Video tutorial dan penjelasan Game Dino Run Run oleh Kelompok 1 Sigma Rizz
+
 Bisa diakses lewat link ini: [Video Tutorial](https://youtu.be/Gr_BpYoKjvg)
 
 ---
